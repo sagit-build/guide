@@ -4,11 +4,11 @@
 
 # 清华源节点
 
-repo init -u https://android.googlesource.com/platform/manifest -b android-10.0.0_r37
+$ repo init -u https://android.googlesource.com/platform/manifest -b android-10.0.0_r37
 
 # 同步源码
 
-repo sync
+$ repo sync
 ```
 ### 下载device tree ###
 
