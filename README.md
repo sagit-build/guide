@@ -18,6 +18,8 @@ $ repo sync
 /vendor/brand/device
 ```
 
+### 修改device文件夹下部分文件 ###
+
 ### 编译 ###
 
 ```bash
