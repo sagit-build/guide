@@ -16,6 +16,7 @@ $ repo sync
 /device/brand/device
 /kernel/brand/device
 /vendor/brand/device
+如果使用私人开发者的device tree可能还需要更多的文件
 ```
 
 ### 修改device文件夹下部分文件 ###
