@@ -2,7 +2,7 @@
 
 ```bash
 
-# 清华源节点
+# 清华源节点（然而并不是）
 
 $ repo init -u https://android.googlesource.com/platform/manifest -b android-10.0.0_r40
 
