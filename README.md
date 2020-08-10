@@ -4,7 +4,7 @@
 
 # 清华源节点（然而并不是）
 
-$ repo init -u https://android.googlesource.com/platform/manifest -b android-10.0.0_r40
+$ repo init -u https://android.googlesource.com/platform/manifest -b android-10.0.0_r41
 
 # 同步源码
 
@@ -39,6 +39,6 @@ $ make -j8
 
 ```bash
 
-$ repo init -b android-10.0.0_r40
+$ repo init -b android-10.0.0_r41
 
 ```
